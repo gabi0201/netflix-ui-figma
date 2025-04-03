@@ -3,7 +3,7 @@
 ![Preview do Design](netflix.png)
 Este é um clone da interface da Netflix criado no Figma, como parte de estudos de UI Design.
 
-## � Detalhes do Design
+## 🎨 Detalhes do Design
 - **Ferramenta:** Figma
 - **Tipo:** Static UI (ainda não implementado em código)
 - **Status:** Em desenvolvimento ⚠️
